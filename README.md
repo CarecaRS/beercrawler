@@ -1,3 +1,5 @@
+### <img src="https://github.com/CarecaRS/TCC_USP/blob/master/caution.png" width="48"> This profile is no longer maintained here on GitHub, it has been migrated to [Codeberg.org](https://codeberg.org/twerminghoff/). <img src="https://github.com/CarecaRS/TCC_USP/blob/master/caution.png" width="48">
+
 Na verdade isso é um scrapper, e não um crawler. Eu que me emocionei quando fui criar o nome do repositório e depois que me dei conta fiquei com preguiça de consertar. Então, reforço: ISSO É UM SCRAPPER, NÃO UM CRAWLER.
 
 Inicialmente criado com a ideia de me avisar apenas da alteração dos preços de cervejas pré-selecionadas, resolvi expandir um pouco e o script busca também alterações nos preços de chocolates pré-selecionados.
